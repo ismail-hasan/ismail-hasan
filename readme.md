@@ -5,7 +5,10 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://www.linkedin.com/in/ismailhasanbd">](https://www.linkedin.com/in/ismailhasanbd)[<img height="75" src="https://www.facebook.com/ismailhasanbd">](https://www.facebook.com/ismailhasanbd)[<img height="75" src="https://twitter.com/"> </p>](https://twitter.com/ismailhasanbd)
+[<p align="center"><img height="75" src="https://github.com/ismail-hasan/ismail-hasan/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/ismailhasanbd)[<img height="75" src="https://github.com/ismail-hasan/ismail-hasan/blob/main/images/icons/Facebook.png">](https://www.facebook.com/ismailhasanbd)[<img height="75" src="https://github.com/ismail-hasan/ismail-hasan/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/ismailhasanbd)
+
+
+[<p align="center">[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.facebook.com/mirhussainmurtaza)](https://www.linkedin.com/in//)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
 
 <br />
 
