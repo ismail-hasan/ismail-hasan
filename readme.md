@@ -30,7 +30,7 @@
 <img src="https://github.com/ismail-hasan/ismail-hasan/blob/main/images/icons/css.png"/>
 <img src="https://github.com/ismail-hasan/ismail-hasan/blob/main/images/icons/JavaScript.png"/>
 <img src="https://github.com/ismail-hasan/ismail-hasan/blob/main/images/icons/react.png"/>
-<img src="https://github.com/ismail-hasan/ismail-hasan/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/ismail-hasan/ismail-hasan/images/icons/tailwind.png"/>
 <img src="https://github.com/ismail-hasan/ismail-hasan/blob/main/images/icons/Bootsrap.png"/>
 <img src="https://github.com/ismail-hasan/ismail-hasan/blob/main/images/icons/node.png"/>
 <img src="https://github.com/ismail-hasan/ismail-hasan/blob/main/images/icons/express.png"/>
